@@ -104,3 +104,7 @@ background-size: cover;
   padding-left: 0px;
   padding-right: 0px;
 }
+
+.card-footer{
+  background-color: white;
+}
